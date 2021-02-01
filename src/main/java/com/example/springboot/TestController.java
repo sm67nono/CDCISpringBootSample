@@ -8,7 +8,7 @@ public class TestController {
 
     @RequestMapping("/")
     public String index() {
-        return "Testing the springBoot application";
+        return "Testing the springBoot application.";
     }
 
 }
